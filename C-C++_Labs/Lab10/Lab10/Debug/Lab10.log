@@ -1,0 +1,5 @@
+﻿  Lab10.cpp
+  Source.cpp
+C:\Users\Оксана\source\repos\Lab10\Lab10\Source.cpp(60,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Оксана\source\repos\Lab10\Lab10\Source.cpp(88,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
